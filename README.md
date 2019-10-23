@@ -18,4 +18,4 @@
 	valid, err := cloopen.Send(req)
 	fmt.Println(valid, err)
 ```
-- 详情请查看 test 车市文件
+- 详情请查看 test 测试文件
